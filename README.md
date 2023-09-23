@@ -14,8 +14,7 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rod-Santos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-
-<!-- <img align="right" width="250px" style="margin-top:-20px" src="URL_DA_SUA_FOTO"> -->
+<!--<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/Rod-Santos/Rod-Santos/blob/master/octocat-1695449299696.png"> -->
 
 </br>
 </br>
@@ -41,4 +40,5 @@
 
 <a href="https://www.instagram.com/_drigosantos_/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://www.linkedin.com/in/rodrigodasilvasantos/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+
 
