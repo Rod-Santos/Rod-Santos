@@ -9,9 +9,9 @@
 <div>
 <a href="https://github.com/Rod-Santos">
 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Rod-Santos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=dasilva95Ro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </br>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rod-Santos&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasilva95Ro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <!--<img align="right" width="250px" style="margin-top:-20px" src="https://github.com/Rod-Santos/Rod-Santos/blob/master/octocat-1695449299696.png"> -->
