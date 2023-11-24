@@ -57,9 +57,16 @@ O projeto possui dois scripts com propósitos idênticos, mas em linguagens dife
 1. Salve o script em um diretório de sua escolha.
 2. Abra o terminal e navegue até o diretório onde o script foi salvo.
 3. Execute o script:
-   - Para o script Batch: `*`
-   - Para o script Python: `*`
+   Para o script Batch: 
+```bash
+sh execute-exiftool.sh
+```
 
+   Para o script Python:
+
+```bash
+python nomearquivo.py
+```
 **Criado por Rodrigo Santos**
 
 [![LinkedIn](https://img.icons8.com/nolan/50/linkedin.png)](https://www.linkedin.com/in/rodrigodasilvasantos/) [![GitHub](https://img.icons8.com/nolan/50/github.png)](https://github.com/Rod-Santos)
